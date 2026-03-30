@@ -1,0 +1,7 @@
+NCT_ID,Title,Phase,Status,Start_Year,Enrollment,Lithium_Dose,Target_Population,Primary_Outcome,Results_Summary
+NCT03185208,Lithium Treatment of Alzheimer's Disease,Phase 2,Completed,2017,40,Lithium carbonate target 0.8 mmol/L,Mild-moderate AD,ADAS-Cog at 12 weeks,Improvement in attention and concentration sub-item; no global cognitive change
+NCT02601859,LATTICE: Lithium to Delay Cognitive Decline,Pilot,Completed,2015,~75,Subtherapeutic Li carbonate,MCI (amyloid PET stratified),Memory tests + biomarkers + MRI,Results published March 2026; feasibility demonstrated
+NCT01058334,Lithium in Mild Alzheimer's Disease,Phase 2,Terminated,2009,71,Lithium sulfate target 0.5-0.8 mmol/L,Mild AD (MMSE 20-26),ADAS-Cog + CSF biomarkers at 10 weeks,No cognitive improvement; increased BDNF; decreased GSK-3 activity in platelets (trend)
+NCT00485258,Lithium in Amnestic MCI (Forlenza),Phase 2,Completed,2006,61,Lithium carbonate target 0.25-0.5 mmol/L,Amnestic MCI,ADAS-Cog + CDR-SB + CSF biomarkers at 2 years,Cognitive stability vs placebo decline; decreased p-tau; increased Aβ42 in CSF
+NCT02810162,LiMIND: Lithium in Mild Cognitive Impairment,Pilot,Unknown,2015,?,Low-dose lithium,MCI,N/A,Status unclear
+N/A,Macleod et al. 2022 (UK),Phase 3,Completed,2014,~300,Lithium orotate 10mg/d,Older adults (65+),Cognitive function (ACE-R),No significant difference; well-tolerated
