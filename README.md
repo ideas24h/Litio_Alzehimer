@@ -14,6 +14,7 @@ Repositorio de investigación sobre la conexión entre el litio y la enfermedad 
 | [05_microdosis.md](docs/05_microdosis.md) | Dosis subterapéuticas, orotato vs carbonato, agua potable, seguridad |
 | [06_preguntas_frecuentes.md](docs/06_preguntas_frecuentes.md) | 20 preguntas con respuestas honestas basadas en evidencia |
 | [07_recursos.md](docs/07_recursos.md) | Links a papers, ensayos clínicos, organizaciones, cómo seguir la investigación |
+| [08_novedades_marzo2026.md](docs/08_novedades_marzo2026.md) | 🆕 Resultados LATTICE (JAMA Neurology mar-2026), cobertura SEMEG, estado actualizado |
 
 ### Datos
 | Archivo | Contenido |

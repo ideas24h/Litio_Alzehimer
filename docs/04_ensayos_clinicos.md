@@ -79,9 +79,17 @@ Negativo para los endpoints primarios, pero el aumento de BDNF sugiere un efecto
 - **Endpoints primarios**: Tests cognitivos (memoria verbal y visoespacial, PACC), biomarcadores (GSK-3β, BDNF, MRI volumetría)
 - **Endpoints secundarios**: p-tau en LCR, integridad sustancia blanca por MRI
 
-### Resultados (marzo 2026)
-- Publicados recientemente — pendiente de análisis detallado
-- El estudio evaluó viabilidad y efectos sobre biomarcadores en una población bien caracterizada (PET-amiloides)
+### Resultados (publicados JAMA Neurology, 2 marzo 2026)
+- **DOI**: 10.1001/jamaneurol.2026.0072
+- **N final**: 80 participantes ≥60 años con DCL
+- **Dosis**: Carbonato de litio ~195 mg/día (niveles ~0.17 mEq/L — muy bajo)
+- **Duración**: 2 años (feb 2018 - ago 2024)
+- **Memoria verbal (CVLT-II)**: Grupo litio mostró deterioro más lento → **nominamente positivo** pero P no alcanzó threshold pre-especificado (<.01)
+- **Memoria visuoespacial (BVMT-R)**: Sin diferencia significativa
+- **PACC**: Sin diferencia significativa
+- **Hipocampo (MRI 7T)**: Reducción en ambos grupos, diferencia no significativa
+- **Seguridad**: Bien tolerado
+- **Conclusión**: "Viable, seguro y vale la pena perseguir" — ensayo fase III en preparación
 
 ### Significado
 El LATTICE es importante porque estratificó por estatus amiloide (PET+ vs PET-), lo que permite entender si el litio funciona de manera diferente según la biología subyacente.
